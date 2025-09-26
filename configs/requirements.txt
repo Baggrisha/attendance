@@ -21,7 +21,7 @@ jiter==0.11.0
 macholib==1.15.2
 magic-filter==1.0.12
 multidict==6.6.4
-pip==24.3.1
+pip==25.2
 propcache==0.3.2
 pydantic==2.11.9
 pydantic_core==2.33.2
